@@ -33,9 +33,9 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 ### Screenshots
 
 ![Note-taker Start Page](https://raw.githubusercontent.com/hestokes/note-taker/main/public/assets/images/nt-start-local.png)
+![Note-taker Heroku Deployment](https://raw.githubusercontent.com/hestokes/note-taker/main/public/assets/images/nt-heroku-deployment.png)
 ![Note-taker Notes Page](https://raw.githubusercontent.com/hestokes/note-taker/main/public/assets/images/nt-notes-page.png)
 ![Note-taker Saved notes](https://raw.githubusercontent.com/hestokes/note-taker/main/public/assets/images/nt-screenshot-test-saved.png)
-![Note-taker Heroku Deployment](https://raw.githubusercontent.com/hestokes/note-taker/main/public/assets/images/nt-heroku-deployment.png)
 
 ### Features
 
