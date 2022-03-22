@@ -1,6 +1,4 @@
-# Title / Repository Name
-
-##Note-taker
+# Note-taker
 
 ## About / Synopsis
 
@@ -14,19 +12,32 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 > - [Title / Repository Name](#title--repository-name)
 >   - [About / Synopsis](#about--synopsis)
 >   - [Table of contents](#table-of-contents)
->   - [Usage](#usage)
->     - [Screenshots](#screenshots)
->     - [Features](#features)
->     - [Content](#content)
->     - [Deploy (how to install build product)](#deploy-how-to-install-build-product)
+>   - [Screenshots](#screenshots)
+>   - [Features](#features)
+>   - [Credits](#credits)
 >   - [Contributing / Reporting issues](#contributing--reporting-issues)
 
 ## Installation
 
-*Utilizing note-taker from your local machine will require the installation of all node related dependencies
-*please run "npm i" from the command line if you wish to do so after
+- Note-taker can be used live in the link below:
 
-## Usage
+- [Link to Heroku Live Deployment](https://note-taker-stokes2.herokuapp.com)
+
+- [Link to GitHub deployment(README with links)](https://hestokes.github.io/note-taker/)
+
+- Visit the Note-taker GitHub [repository](https://github.com/hestokes/note-taker)
+
+- Utilizing note-taker from your local machine will require the installation of all node related dependencies
+- Please run "npm i" from the command line if you wish to do so
+
+### Screenshots
+
+![Note-taker Start Page](/miniature-eureka/public/assets/images/nt-start-local.png)
+![Note-taker Notes Page](/miniature-eureka/public/assets/images/nt-notes-page.png)
+![Note-taker Saved notes](/miniature-eureka/public/assets/images/nt-screenshot-test-saved.png)
+![Note-taker Heroku Deployment](/miniature-eureka/public/assets/images/nt-heroku-deployment.png)
+
+### Features
 
 1. Upon opening the Note-taker homepage, click the "Get Started" button
 2. Enter a title for your new note in the "Note Title" space
@@ -34,24 +45,12 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 4. Click on the floppy drive icon located on the top right of the page to save your note
 5. To access your note, simply click the title of your note as it appears in the column on the left!
 
-### Screenshots
+## Credits
 
-![Note-taker Start Page](miniature-eureka/public/assets/images/nt-start-local.png)
-![Note-taker Notes Page](miniature-eureka/public/assets/images/nt-notes-page.png)
-![Note-taker Saved notes](miniature-eureka/public/assets/images/nt-screenshot-test-saved.png)
-![Note-taker Heroku Deployment](miniature-eureka/public/assets/images/nt-heroku-deployment.png)
-
-### Features
-
-### Content
-
-### Deploy (how to install build product)
-
-## Resources (Documentation and other links)
+- [Heroku](https://www.heroku.com)
+- [Markdown](https://markdownmonster.west-wind.com/)
+- [Inspirational Music](https://www.youtube.com/watch?v=8P_RLKl2UNY)
 
 ## Contributing / Reporting issues
 
-- [Link to Heroku Live Deployment]()
-- [Link to GitHub Deployment]()
-
-## About Nuxeo
+\*If you would like to contribute to this app, which was created as a project for UC Berkeley's Full Stack Web Development Bootcamp, please contact me [Here](mailto:stokescomp01@gmail.com)
